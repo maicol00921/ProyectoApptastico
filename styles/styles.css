@@ -508,11 +508,13 @@ footer h3 {
 
   .Textinicio {
     max-width: 100%;
+    
   }
 
   .Textinicio h2 {
     font-size: 30px;
     line-height: 1.3;
+    text-align: center;
   }
 
   .Textinicio .p1,
